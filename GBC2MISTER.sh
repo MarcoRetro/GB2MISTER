@@ -9,6 +9,9 @@ destination=$mister_saves
 cd $destination
 mkdir -p "$destination/GBC/"
 
+cd /media/fat/saves/GBC/
+touch DUMMYSAVE.SAV
+
 cd $source
 for f in *.SAV
 do 
