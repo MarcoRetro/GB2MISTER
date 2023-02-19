@@ -11,6 +11,7 @@ IMPORTANT!
 The GBC2MISTER and GBA2MISTER scripts will copy the save game from the cart to the save directory for that core. 
 The MISTER2GBC and MISTER2GBA scripts will copy the save file back to the cart. 
 Allow up to 10 seconds for save files to write. Exiting the script or disconnecting the USB reader too early may result in no-copy.
+Internet connection or RTC hardware addon required (not needed for Everdrive save scripts though)
 
 
 INSTRUCTIONS
